@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+
+        <div id="archives">
+        {% for category in site.categories %}
+            <div class="archive-group">
+            {% capture category_name %}{{ category | first }}{% endcapture %}
+            <div id="#{{ category_name | slugize }}"></div>
+            <p></p>
+            
+            <h3 class="category-head">{{ category_name }}</h3>
+            <a name="{{ category_name | slugize }}"></a>
+              <div class="grid">
+              {% for post in site.categories[category_name] %}
+
+                <div class="grid-item {{ post.categories }}">
+                  {%- if post.image -%}
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                      <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="{{ post.title | escape }}" style="width:100%">
+                    </a>
+                
+                  {%- else -%}
+                  <div class="blog-card">
+                    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                    <span class="post-meta">{{ post.date | date: date_format }}</span>
+                    <h3>
+                      <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}  
+                      </a>
+                    </h3>
+                    {%- if site.show_excerpts -%}
+                      <div class="blog-card-container">
+                        {{ post.excerpt }}
+                      </div>
+                    {%- endif -%}       
+                  </div>
+                  {%- endif -%}
+                </div>
+
+              {% endfor %}
+              </div>
+            </div>
+        {% endfor %}
+        </div>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
