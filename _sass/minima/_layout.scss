@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "asphalt";
-  src: url("Asphalts-Brush.woff") format('woff');
+  font-family: "cheddar";
+  src: url("CheddarGothicSansTwo-Regular.woff2") format('woff');
 }
 
 /**
@@ -20,7 +20,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 100;
-  font-family: asphalt;
+  font-family: cheddar;
   line-height: $base-line-height * $base-font-size * 1.8;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -35,7 +35,7 @@
 
 .site-logo {
   width: 130px;
-  margin-left: calc(50% - 80px);
+  margin-left: calc(50% - 60px);
   margin-top: 3px;
 }
 
@@ -357,12 +357,10 @@
   // font-size: 2 * $base-font-size;
   color: $brand-color;
   float: left;
-  font-family: Georgia;
+  font-family: cheddar;
   // font-size: $base-font-size;
   // line-height: $base-font-size;
-  
   float: left;
-  font-family: Georgia;
   font-size: 70px;
   line-height: 58px;
   padding-top: 4px;
@@ -390,7 +388,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  font-family: asphalt;
+  font-family: cheddar;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);

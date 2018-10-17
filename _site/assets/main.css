@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #0cd7f5;
+  color: #fcc624;
   text-decoration: none; }
   a:visited {
-    color: #0cd7f5; }
+    color: #fcc624; }
   a:hover {
-    color: #0cd7f5;
+    color: #fcc624;
     text-decoration: none; }
   .social-media-list a:hover {
     text-decoration: none; }
@@ -183,8 +183,8 @@ table {
     border: 1px solid #e8e8e8; }
 
 @font-face {
-  font-family: "asphalt";
-  src: url("Asphalts-Brush.woff") format("woff"); }
+  font-family: "cheddar";
+  src: url("CheddarGothicSansTwo-Regular.woff2") format("woff"); }
 /**
  * Site header
  */
@@ -198,7 +198,7 @@ table {
 .site-title {
   font-size: 22.75px;
   font-weight: 100;
-  font-family: asphalt;
+  font-family: cheddar;
   line-height: 37.8px;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -208,7 +208,7 @@ table {
 
 .site-logo {
   width: 130px;
-  margin-left: calc(50% - 80px);
+  margin-left: calc(50% - 60px);
   margin-top: 3px; }
 
 .site-nav {
@@ -225,7 +225,7 @@ table {
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
   .site-nav .active {
-    color: #0cd7f5; }
+    color: #fcc624; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
@@ -444,11 +444,10 @@ table {
       padding: 30px 7% 30px 7%; } }
 
 .blog-card-text-container:first-letter {
-  color: #0cd7f5;
+  color: #fcc624;
   float: left;
-  font-family: Georgia;
+  font-family: cheddar;
   float: left;
-  font-family: Georgia;
   font-size: 70px;
   line-height: 58px;
   padding-top: 4px;
@@ -471,7 +470,7 @@ table {
   font-size: 36.75px;
   letter-spacing: -1px;
   line-height: 1;
-  font-family: asphalt; }
+  font-family: cheddar; }
   @media screen and (max-width: 960px) {
     .page-title,
     .page-content h1 {
