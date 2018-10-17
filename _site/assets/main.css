@@ -207,12 +207,13 @@ table {
     color: #424242; }
 
 .site-logo {
-  width: 160px;
+  width: 140px;
   margin-left: 15px;
-  margin-top: 1px; }
+  margin-top: 3px; }
 
 .site-nav {
   float: right;
+  margin-top: -43px;
   margin-right: 15px;
   line-height: 42px; }
   .site-nav .nav-trigger {
