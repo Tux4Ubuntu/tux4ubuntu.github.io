@@ -2,7 +2,7 @@
 layout: post
 title:  "TUX Boot Logo Theme"
 date:   2018-10-14 13:00:00 +0200
-categories: ubuntu
+categories: "#desktop"
 image:  2018-10-14-tux-desktop-theme.png
 comments: true
 ---

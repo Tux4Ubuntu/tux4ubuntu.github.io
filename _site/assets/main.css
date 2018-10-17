@@ -77,7 +77,8 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #fcc624;
-  text-decoration: none; }
+  text-decoration: none;
+  font-weight: 700; }
   a:visited {
     color: #fcc624; }
   a:hover {
@@ -209,7 +210,7 @@ table {
 .site-logo {
   width: 130px;
   margin-left: calc(50% - 60px);
-  margin-top: 3px; }
+  margin-top: -7px; }
 
 .site-nav {
   float: right;

@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "TUX Games"
+date:   2018-10-09 13:00:00 +0200
+categories: "#games"
+image:  2018-10-09-tux-games.png
+comments: true
+---
+Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).
+
+## Use the Installer
+Use the Tux4Ubuntu-installer by highlighting and copying (__Ctrl + C__) and open the terminal (__Ctrl + Alt + T__) and paste (__Ctrl + Shift + V__) the following line of code and press Enter:
+
+~~~~~
+sudo apt install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+~~~~~
+
+## Got Stuck? Other Linux Distribution? Keep on reading
+This installation process is only gonna cover the “sudo apt install packagename” process. If you’re distribution doesn’t support it we link to each of the games installation guides. But we’re all thankfull if you comment how you solved it.
+
+### Extreme Tux Racer
+
+![Extreme Tux Racer](/images/2018-10-09-extreme-tux-racer.png)
+
+Run the following script:
+
+    sudo apt install extremetuxracer
+
+For more information and further install instructions: [https://sourceforge.net/projects/extremetuxracer/](https://sourceforge.net/projects/extremetuxracer/ "https://sourceforge.net/projects/extremetuxracer/")
+
+### FreedroidRPG
+
+![FreedroidRPG](/images/2018-10-09-freedroidrpg.png)
+
+Run the following script:
+
+    sudo apt install freedroidrpg
+
+For more information and further install instructions: [http://www.freedroid.org/](http://www.freedroid.org/ "http://www.freedroid.org/")
+
+### SuperTux
+
+![Super Tux](/images/2018-10-09-super-tux.png)
+
+Run the following script:
+
+    sudo apt install supertux
+    
+For more information and further install instructions: [https://www.supertux.org/](https://www.supertux.org/ "https://www.supertux.org/")
+
+### SuperTux Kart
+
+![Tux Kart](/images/2018-10-09-tux-kart.png)
+
+Run the following script:
+
+    sudo apt install extremetuxracer
+
+For more information and further install instructions: [https://sourceforge.net/projects/extremetuxracer/](https://sourceforge.net/projects/extremetuxracer/)
+
+### Warmux
+
+![WarMux](/images/2018-10-09-warmux.png)
+
+Run the following script:
+
+    sudo apt install warmux
+
+For more information and further install instructions: [https://github.com/yeKcim/warmux](https://github.com/yeKcim/warmux)
+
+That should be it. Let us know if it worked or not.

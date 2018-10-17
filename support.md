@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Support
+permalink: /support/
 ---
  
 [![Netlight Consulting AB logo](/images/netlight.png)

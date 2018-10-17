@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-17T17:55:46+02:00</updated><id>http://localhost:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-logo-theme/">&lt;p&gt;Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://192.168.0.100:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.100:4000/" rel="alternate" type="text/html" /><updated>2018-10-17T22:48:09+02:00</updated><id>http://192.168.0.100:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-boot-logo-theme/">&lt;p&gt;Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
@@ -44,7 +44,7 @@
 &lt;p&gt;&lt;strong&gt;8)&lt;/strong&gt; Final step of the process is to update the initramfs for the changes to take effect. This may take some minutes.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo update-initramfs -u;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-16-tux-boot-logo-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-desktop-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-14T13:00:00+02:00</published><updated>2018-10-14T13:00:00+02:00</updated><id>http://localhost:4000/tux-desktop-theme</id><content type="html" xml:base="http://localhost:4000/tux-desktop-theme/">&lt;p&gt;TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-16-tux-boot-logo-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-desktop-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-14T13:00:00+02:00</published><updated>2018-10-14T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-desktop-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-desktop-theme/">&lt;p&gt;TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;The simpliest way to get started is to copy &lt;strong&gt;(Ctrl + C)&lt;/strong&gt; the line of code below, open a terminal &lt;strong&gt;(Ctrl + Alt + T)&lt;/strong&gt;, paste it &lt;strong&gt;(Ctrl + Shift + V)&lt;/strong&gt; and press Enter:&lt;/p&gt;
@@ -85,7 +85,7 @@
 
 &lt;p&gt;&lt;strong&gt;9)&lt;/strong&gt; Open the newly created folder and copy and paste the pictures/folders you want to your user’s Pictures folder.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-install-refind&quot;&gt;First, Install rEFInd&lt;/h2&gt;
 &lt;p&gt;Ubuntu comes with GRUB2 which is a great Boot Loader, although not as graphical. If you’re dual booting and looking for a nice boot sequence rEFInd is the way to go.&lt;/p&gt;
@@ -146,4 +146,70 @@ Need help read Rod’s excellent guides here: https://www.rodsbooks.com/refind&l
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;include themes/tux-refind-theme/theme.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-10-tux-boot-loader-theme.png" /></entry></feed>
+&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-10-tux-boot-loader-theme.png" /></entry><entry><title type="html">TUX Games</title><link href="http://192.168.0.100:4000/tux-games/" rel="alternate" type="text/html" title="TUX Games" /><published>2018-10-09T13:00:00+02:00</published><updated>2018-10-09T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-games</id><content type="html" xml:base="http://192.168.0.100:4000/tux-games/">&lt;p&gt;Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).&lt;/p&gt;
+
+&lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
+&lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
+&lt;p&gt;This installation process is only gonna cover the “sudo apt install packagename” process. If you’re distribution doesn’t support it we link to each of the games installation guides. But we’re all thankfull if you comment how you solved it.&lt;/p&gt;
+
+&lt;h3 id=&quot;extreme-tux-racer&quot;&gt;Extreme Tux Racer&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018-10-09-extreme-tux-racer.png&quot; alt=&quot;Extreme Tux Racer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Run the following script:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install extremetuxracer
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://sourceforge.net/projects/extremetuxracer/&quot; title=&quot;https://sourceforge.net/projects/extremetuxracer/&quot;&gt;https://sourceforge.net/projects/extremetuxracer/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;freedroidrpg&quot;&gt;FreedroidRPG&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018-10-09-freedroidrpg.png&quot; alt=&quot;FreedroidRPG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Run the following script:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install freedroidrpg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;http://www.freedroid.org/&quot; title=&quot;http://www.freedroid.org/&quot;&gt;http://www.freedroid.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;supertux&quot;&gt;SuperTux&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018-10-09-super-tux.png&quot; alt=&quot;Super Tux&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Run the following script:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install supertux
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://www.supertux.org/&quot; title=&quot;https://www.supertux.org/&quot;&gt;https://www.supertux.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;supertux-kart&quot;&gt;SuperTux Kart&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018-10-09-tux-kart.png&quot; alt=&quot;Tux Kart&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Run the following script:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install extremetuxracer
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://sourceforge.net/projects/extremetuxracer/&quot;&gt;https://sourceforge.net/projects/extremetuxracer/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;warmux&quot;&gt;Warmux&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018-10-09-warmux.png&quot; alt=&quot;WarMux&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Run the following script:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install warmux
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://github.com/yeKcim/warmux&quot;&gt;https://github.com/yeKcim/warmux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-09-tux-games.png" /></entry></feed>
