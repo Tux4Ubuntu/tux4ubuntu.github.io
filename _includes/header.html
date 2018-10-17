@@ -3,11 +3,9 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <center>
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
         <img class="site-logo" src="{{ '/assets/tux4ubuntu-logo.svg' | relative_url }}" alt="{{ site.title | escape }}"/>
       </a>
-    </center>
     
     {%- if page_paths -%}
       <nav class="site-nav">

@@ -40,4 +40,18 @@ __4)__ Run Gnome Tweak Tools by pressing the Windows/Apple button and type "Twea
 ![Gnome Tweak tool](//images.ctfassets.net/tjntqu60gbn0/1EzaEX1nJaCEMu6OequOIu/ecae72d9a3111138940ff8ee1f3131ec/Gnome-Tweak-Tool.png)
 > Use Gnome Tweak tool to change even more things in your Gnome OS than the Settings-app
 
-__5.__ While there, try out the themes you like the most. But if you want it as TUX did it, change under appearance Applications > Arc, Cursor > Paper and Icons > Paper.
+__5)__ While there, try out the themes you like the most. But if you want it as TUX did it, change under appearance Applications > Arc, Cursor > Paper and Icons > Paper.
+
+__6)__ Further, to change to Tux's wallpapers, download the images through github by clicking this link: https://github.com/Tux4Ubuntu/tux-wallpapers/archive/master.zip
+
+__7)__ Open a new Files-window and then double-click on Downloads to open it.
+
+![Files](//images.ctfassets.net/tjntqu60gbn0/7J4uRhv3TGSuWCAM02IUYm/1dcd44c362ab1871f969d923fbec99a0/Files.png)
+
+__8)__ Then double-click the master.zip-file to unzip it.
+
+__9)__ Open the newly created folder and copy and paste the pictures/folders you want to your user’s Pictures folder.
+
+__10__ Now select the picture you want as you background, either by going to Settings (see below) or right-click the file and choose “Set As Wallpaper”.
+
+![Settings](//images.ctfassets.net/tjntqu60gbn0/4ERvSk5bG0u02aCOWYMuUY/0e8331dc3b3edd5a745deaef93a4bac4/Settings.png)
