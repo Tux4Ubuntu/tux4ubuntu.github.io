@@ -207,9 +207,9 @@ table {
     color: #424242; }
 
 .site-logo {
-  width: 160px;
+  width: 130px;
   margin-left: calc(50% - 80px);
-  margin-top: 1px; }
+  margin-top: 3px; }
 
 .site-nav {
   float: right;
@@ -505,7 +505,7 @@ table {
  */
 .grid {
   max-width: 1200px;
-  border-radius: 10px 10px 0 0;
+  border-radius: 10px;
   /* 5px rounded corners */
   overflow: hidden;
   margin-bottom: 30px; }

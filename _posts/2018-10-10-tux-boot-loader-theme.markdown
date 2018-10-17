@@ -20,10 +20,7 @@ __1)__ Highlight the text below and press Ctrl + C on your keyboard:
 echo -ne '\n' | sudo apt-add-repository ppa:rodsmith/refind && sudo apt-get update && sudo apt-get install refind
 ~~~~
 
-__2)__ Open a Terminal window by pressing __Ctrl + Alt + T__ or by clicking the “Show Applications”-button, type “Terminal” and press Enter.
-
-![The "Show Applications"-button](/images/2018-10-10-show-applications.png)
-> The "Show Applications"-button found in the bottom-left corner
+__2)__ Open a Terminal window by pressing __Ctrl + Alt + T__ or by clicking the “Show Applications”-button (9 dots in the bottom-left corner), type “Terminal” and press Enter.
 
 __3)__ While inside the Terminal press __Ctrl + Shift + V__ on your keyboard and press Enter. Remember the Shift since that is not common operation for pasting from the clipboard in other applications.
 
@@ -69,7 +66,7 @@ __5)__ Final step add a line of code to refind.conf. Open it with sudo rights ru
 
 ~~~~
 sudo gedit /boot/efi/EFI/refind/refind.conf # This will open the file in gedit with sudo rights
-~~~~~
+~~~~
 
 __6)__ Then copy and paste this line of code at the end of the config file:
 

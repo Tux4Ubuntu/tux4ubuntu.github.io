@@ -34,9 +34,9 @@
 }
 
 .site-logo {
-  width: 160px;
-  margin-left: 15px;
-  margin-top: 1px;
+  width: 130px;
+  margin-left: calc(50% - 80px);
+  margin-top: 3px;
 }
 
 .site-nav {
@@ -442,7 +442,7 @@
 
  .grid {
   max-width: 1200px;
-  border-radius: 10px 10px 0 0; /* 5px rounded corners */
+  border-radius: 10px; /* 5px rounded corners */
   overflow: hidden;
   margin-bottom: $spacing-unit;
 }

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-17T17:04:33+02:00</updated><id>http://localhost:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-logo-theme/">&lt;p&gt;Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-17T17:26:14+02:00</updated><id>http://localhost:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-logo-theme/">&lt;p&gt;Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
@@ -79,17 +79,13 @@
 
 &lt;p&gt;&lt;strong&gt;6)&lt;/strong&gt; Further, to change to Tux’s wallpapers, download the images through github by clicking this link: https://github.com/Tux4Ubuntu/tux-wallpapers/archive/master.zip&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; Open a new Files-window and then double-click on Downloads to open it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;//images.ctfassets.net/tjntqu60gbn0/7J4uRhv3TGSuWCAM02IUYm/1dcd44c362ab1871f969d923fbec99a0/Files.png&quot; alt=&quot;Files&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; Open a new Files-window and then click on Downloads to open it.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;8)&lt;/strong&gt; Then double-click the master.zip-file to unzip it.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;9)&lt;/strong&gt; Open the newly created folder and copy and paste the pictures/folders you want to your user’s Pictures folder.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings (see below) or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;//images.ctfassets.net/tjntqu60gbn0/4ERvSk5bG0u02aCOWYMuUY/0e8331dc3b3edd5a745deaef93a4bac4/Settings.png&quot; alt=&quot;Settings&quot; /&gt;&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-install-refind&quot;&gt;First, Install rEFInd&lt;/h2&gt;
 &lt;p&gt;Ubuntu comes with GRUB2 which is a great Boot Loader, although not as graphical. If you’re dual booting and looking for a nice boot sequence rEFInd is the way to go.&lt;/p&gt;
@@ -101,12 +97,7 @@
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;echo -ne '\n' | sudo apt-add-repository ppa:rodsmith/refind &amp;amp;&amp;amp; sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install refind
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Open a Terminal window by pressing &lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt; or by clicking the “Show Applications”-button, type “Terminal” and press Enter.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/2018-10-10-show-applications.png&quot; alt=&quot;The &amp;quot;Show Applications&amp;quot;-button&quot; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;The “Show Applications”-button found in the bottom-left corner&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Open a Terminal window by pressing &lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt; or by clicking the “Show Applications”-button (9 dots in the bottom-left corner), type “Terminal” and press Enter.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; While inside the Terminal press &lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt; on your keyboard and press Enter. Remember the Shift since that is not common operation for pasting from the clipboard in other applications.&lt;/p&gt;
 
