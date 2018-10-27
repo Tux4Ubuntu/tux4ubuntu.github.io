@@ -1,9 +1,16 @@
 ---
 layout: default
 ---
-<div class="page-card">
-
-  <div class="page-container">
+<div class="blog-card">
+  {%- if page.image -%}
+  <a class="post-link" href="{{ page.url | relative_url }}">
+    <div class="img-container">
+      <img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.title | escape }}" style="width:100%">
+      <!-- <div class="post-date"><p>{{ page.date | date: "%B %e, %Y" }}</p></div> -->
+    </div>
+  </a>
+  {%- endif -%}
+  <div class="blog-card-container">
     <header class="post-header">
       <h1 class="post-title">{{ page.title | escape }}</h1>
     </header>

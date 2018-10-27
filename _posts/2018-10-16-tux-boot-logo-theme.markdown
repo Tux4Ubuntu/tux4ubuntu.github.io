@@ -6,13 +6,13 @@ categories: "#boot"
 image:  2018-10-16-tux-boot-logo-theme.png
 comments: true
 ---
-Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.
+Windows has its Windows-logo and Mac OS has its Apple as Boot Logo. It is time for all the Linux OSes to get the Linux mascot TUX as their boot logo.
 
 ## Use the Installer
 Use the Tux4Ubuntu-installer by highlighting and copying (__Ctrl + C__) and open the terminal (__Ctrl + Alt + T__) and paste (__Ctrl + Shift + V__) the following line of code and press Enter:
 
 ~~~~~
-sudo apt install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+sudo apt -y install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 ~~~~~
 
 ## Got Stuck? Other Linux Distribution? Keep on reading

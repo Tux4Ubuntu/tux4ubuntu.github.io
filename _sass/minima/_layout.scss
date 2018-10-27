@@ -9,7 +9,7 @@
 .site-header {
   // border-top: 5px solid $grey-color-dark;
   // border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.45;
+  min-height: $spacing-unit * 1;
   background: rgba(0, 0, 0, .7);
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   // Positioning context for the mobile navigation icon
@@ -36,7 +36,7 @@
 .site-logo {
   width: 130px;
   margin-left: calc(50% - 60px);
-  margin-top: -7px;
+  //margin-top: -0.5rem;
 }
 
 .site-nav {

@@ -37,7 +37,7 @@ Need help read Rod's excellent guides here: https://www.rodsbooks.com/refind
 The simpliest way to get started is to copy (__Ctrl + C__) the line of code below, open a terminal (__Ctrl + Alt + T__), paste it (__Ctrl + Shift + V__) and press Enter:
 
 ~~~~
-sudo apt install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+sudo apt -y install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 ~~~~
 
 ## Got Stuck? Other Linux Distribution? Keep on reading

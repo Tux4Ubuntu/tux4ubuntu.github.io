@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://192.168.0.100:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.0.100:4000/" rel="alternate" type="text/html" /><updated>2018-10-17T22:48:09+02:00</updated><id>http://192.168.0.100:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-boot-logo-theme/">&lt;p&gt;Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-27T19:34:05+02:00</updated><id>http://localhost:4000/</id><title type="html">Tux4Ubuntu</title><subtitle>My Blog</subtitle><author><name>Josef Norlin</name></author><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-logo-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-16T13:00:00+02:00</published><updated>2018-10-16T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-logo-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-logo-theme/">&lt;p&gt;Windows has its Windows-logo and Mac OS has its Apple as Boot Logo. It is time for all the Linux OSes to get the Linux mascot TUX as their boot logo.&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
@@ -44,12 +44,12 @@
 &lt;p&gt;&lt;strong&gt;8)&lt;/strong&gt; Final step of the process is to update the initramfs for the changes to take effect. This may take some minutes.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo update-initramfs -u;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Linux bravely gone where no OS went before, time for TUX to get the credit he deserves. Windows has it’s Windows-logo and Mac OS has it’s Apple as Boot Logo. Time for Ubuntu to get TUX.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-16-tux-boot-logo-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-desktop-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-14T13:00:00+02:00</published><updated>2018-10-14T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-desktop-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-desktop-theme/">&lt;p&gt;TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Windows has its Windows-logo and Mac OS has its Apple as Boot Logo. It is time for all the Linux OSes to get the Linux mascot TUX as their boot logo.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-16-tux-boot-logo-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-desktop-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-14T13:00:00+02:00</published><updated>2018-10-14T13:00:00+02:00</updated><id>http://localhost:4000/tux-desktop-theme</id><content type="html" xml:base="http://localhost:4000/tux-desktop-theme/">&lt;p&gt;TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;The simpliest way to get started is to copy &lt;strong&gt;(Ctrl + C)&lt;/strong&gt; the line of code below, open a terminal &lt;strong&gt;(Ctrl + Alt + T)&lt;/strong&gt;, paste it &lt;strong&gt;(Ctrl + Shift + V)&lt;/strong&gt; and press Enter:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
@@ -85,7 +85,96 @@
 
 &lt;p&gt;&lt;strong&gt;9)&lt;/strong&gt; Open the newly created folder and copy and paste the pictures/folders you want to your user’s Pictures folder.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://192.168.0.100:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://192.168.0.100:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt; Now select the picture you want as you background, either by going to Settings or right-click the file and choose “Set As Wallpaper”.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">TUX searched the web and found the themes he liked the best. Here’s how you get started with installing his but also how you can select and try his and others themes out.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-14-tux-desktop-theme.png" /></entry><entry><title type="html">TUX Developer Tools</title><link href="http://localhost:4000/tux-devtools/" rel="alternate" type="text/html" title="TUX Developer Tools" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://localhost:4000/tux-devtools</id><content type="html" xml:base="http://localhost:4000/tux-devtools/">&lt;p&gt;Ubuntu can be a great power &lt;del&gt;horse&lt;/del&gt; penguin with the right set of tools. To help you get started (or if you just reinstalled Ubuntu) here’s TUX’s suggestions and an installer for all of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
+&lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
+&lt;p&gt;This installation process is only gonna cover the “sudo apt install packagename” process. If you’re distribution doesn’t support it we link to each of the softwares installation guides. But we’re all thankfull if you comment how you solved it.&lt;/p&gt;
+
+&lt;h3 id=&quot;visual-studio-code&quot;&gt;Visual Studio Code&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; Add their package key (if you trust Microsoft that is, but I say it’s fine :P /TUX):&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor &amp;gt; /tmp/microsoft.gpg
+sudo mv /tmp/microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Add Microsofts repo to yours so it will keep on being updated&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo sh -c 'echo &quot;deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main&quot; &amp;gt; /etc/apt/sources.list.d/vscode.list'
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; Update and install code&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install code
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;gimp&quot;&gt;GIMP&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; Add GIMP Edge repository (so you always have the latest version, since it can be quite a big difference in GIMP’s case)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo add-apt-repository ppa:otto-kesselgulasch/gimp-edge
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Update and install&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install gimp gimp-gmic
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;git-and-ssh-keys&quot;&gt;GIT and SSH keys&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; First, install git:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Add your username and email (I don’t use my own so I don’t get spammed /TUX)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git config --global user.name &quot;YOUR USERNAME&quot;
+git config --global user.email &quot;nottoday@gmail.com&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;3)&lt;/strong&gt; Now, if you haven’t set up your SSH Keys already it’s time for that now. Run this command and just follow the instructions.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-keygen
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;4)&lt;/strong&gt; If you went with the default name “id_rsa” then add them by using this command (if you used another name, just replace [id_rsa] with what you chose)&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-add ~/.ssh/id_rsa
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;5)&lt;/strong&gt; Then to add Github to your allowed hosts, you can run this command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh -T git@github.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;6)&lt;/strong&gt; Now if you want you can run this command to copy your public key to your clipboard.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install xclip &amp;amp;&amp;amp; xclip -sel clip &amp;lt; ~/.ssh/id_rsa.pub
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; Then paste your newly copied public key to Github under “SSH and GPG Keys” under settings&lt;/p&gt;
+
+&lt;p&gt;For more information:
+&lt;a href=&quot;https://help.github.com/enterprise/2.14/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/&quot;&gt;GitHub’s guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tilda&quot;&gt;Tilda&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1)&lt;/strong&gt; Install it from the command line:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install tilda
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; Optional: Make it boot by open “Startup Applications” and press Add. Tilda is located at: /usr/bin/tilda&lt;/p&gt;
+
+&lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Ubuntu can be a great power horse penguin with the right set of tools. To help you get started (or if you just reinstalled Ubuntu) here’s TUX’s suggestions and an installer for all of them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-12-tux-devtools.png" /></entry><entry><title type="html">TUX Boot Logo Theme</title><link href="http://localhost:4000/tux-boot-loader-theme/" rel="alternate" type="text/html" title="TUX Boot Logo Theme" /><published>2018-10-10T13:00:00+02:00</published><updated>2018-10-10T13:00:00+02:00</updated><id>http://localhost:4000/tux-boot-loader-theme</id><content type="html" xml:base="http://localhost:4000/tux-boot-loader-theme/">&lt;p&gt;Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-install-refind&quot;&gt;First, Install rEFInd&lt;/h2&gt;
 &lt;p&gt;Ubuntu comes with GRUB2 which is a great Boot Loader, although not as graphical. If you’re dual booting and looking for a nice boot sequence rEFInd is the way to go.&lt;/p&gt;
@@ -114,7 +203,7 @@ Need help read Rod’s excellent guides here: https://www.rodsbooks.com/refind&l
 &lt;h2 id=&quot;then-install-tux-refind-theme&quot;&gt;Then, Install TUX rEFInd Theme&lt;/h2&gt;
 &lt;p&gt;The simpliest way to get started is to copy (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) the line of code below, open a terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;), paste it (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) and press Enter:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
@@ -146,12 +235,12 @@ Need help read Rod’s excellent guides here: https://www.rodsbooks.com/refind&l
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;include themes/tux-refind-theme/theme.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-10-tux-boot-loader-theme.png" /></entry><entry><title type="html">TUX Games</title><link href="http://192.168.0.100:4000/tux-games/" rel="alternate" type="text/html" title="TUX Games" /><published>2018-10-09T13:00:00+02:00</published><updated>2018-10-09T13:00:00+02:00</updated><id>http://192.168.0.100:4000/tux-games</id><content type="html" xml:base="http://192.168.0.100:4000/tux-games/">&lt;p&gt;Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7)&lt;/strong&gt; That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Want TUX even when you’re choosing which OS you want to boot? No problem! For all you dual-/tripple-/…-booters out there, here’s a TUX rEFInd theme ready to be installed. Don’t forget to leave a comment if you want to ask, suggest or just tell the rest of us something.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-10-tux-boot-loader-theme.png" /></entry><entry><title type="html">TUX Games</title><link href="http://localhost:4000/tux-games/" rel="alternate" type="text/html" title="TUX Games" /><published>2018-10-09T13:00:00+02:00</published><updated>2018-10-09T13:00:00+02:00</updated><id>http://localhost:4000/tux-games</id><content type="html" xml:base="http://localhost:4000/tux-games/">&lt;p&gt;Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).&lt;/p&gt;
 
 &lt;h2 id=&quot;use-the-installer&quot;&gt;Use the Installer&lt;/h2&gt;
 &lt;p&gt;Use the Tux4Ubuntu-installer by highlighting and copying (&lt;strong&gt;Ctrl + C&lt;/strong&gt;) and open the terminal (&lt;strong&gt;Ctrl + Alt + T&lt;/strong&gt;) and paste (&lt;strong&gt;Ctrl + Shift + V&lt;/strong&gt;) the following line of code and press Enter:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y install curl &amp;amp;&amp;amp; bash &amp;lt;(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;got-stuck-other-linux-distribution-keep-on-reading&quot;&gt;Got Stuck? Other Linux Distribution? Keep on reading&lt;/h2&gt;
@@ -212,4 +301,4 @@ Need help read Rod’s excellent guides here: https://www.rodsbooks.com/refind&l
 
 &lt;p&gt;For more information and further install instructions: &lt;a href=&quot;https://github.com/yeKcim/warmux&quot;&gt;https://github.com/yeKcim/warmux&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.100:4000/2018-10-09-tux-games.png" /></entry></feed>
+&lt;p&gt;That should be it. Let us know if it worked or not.&lt;/p&gt;</content><author><name>Josef Norlin</name></author><summary type="html">Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperTux and more (all conveniently featuring him of course).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-09-tux-games.png" /></entry></feed>

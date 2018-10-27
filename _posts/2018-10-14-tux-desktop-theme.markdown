@@ -13,7 +13,7 @@ TUX searched the web and found the themes he liked the best. Here's how you get 
 The simpliest way to get started is to copy __(Ctrl + C)__ the line of code below, open a terminal __(Ctrl + Alt + T)__, paste it __(Ctrl + Shift + V)__ and press Enter:
 
 ~~~~
-sudo apt install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+sudo apt -y install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 ~~~~
 
 ## Got Stuck? Other Linux Distribution? Keep on reading

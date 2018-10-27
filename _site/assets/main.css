@@ -77,8 +77,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #fcc624;
-  text-decoration: none;
-  font-weight: 700; }
+  text-decoration: none; }
   a:visited {
     color: #fcc624; }
   a:hover {
@@ -190,7 +189,7 @@ table {
  * Site header
  */
 .site-header {
-  min-height: 43.5px;
+  min-height: 30px;
   background: rgba(0, 0, 0, 0.7);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   position: relative;
@@ -209,8 +208,7 @@ table {
 
 .site-logo {
   width: 130px;
-  margin-left: calc(50% - 60px);
-  margin-top: -7px; }
+  margin-left: calc(50% - 60px); }
 
 .site-nav {
   float: right;

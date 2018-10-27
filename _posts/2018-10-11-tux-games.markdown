@@ -12,7 +12,7 @@ Tux likes his games! Here’s his favorite games such as Warmux, TuxKart, SuperT
 Use the Tux4Ubuntu-installer by highlighting and copying (__Ctrl + C__) and open the terminal (__Ctrl + Alt + T__) and paste (__Ctrl + Shift + V__) the following line of code and press Enter:
 
 ~~~~~
-sudo apt install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
+sudo apt -y install curl && bash <(curl -Ls https://github.com/Tux4Ubuntu/tux-install/raw/master/install.sh)
 ~~~~~
 
 ## Got Stuck? Other Linux Distribution? Keep on reading
